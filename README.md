@@ -5,6 +5,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longrunBiin&hide=javascript,css,scss,html&layout=compact)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sbn521)](https://solved.ac/sbn521/)
+
 <!--
 **longrunBiin/longrunBiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
