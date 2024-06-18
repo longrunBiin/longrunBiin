@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Chang%20Subin&fontSize=50)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longrunBiin&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longrunBiin&hide=javascript,css,scss,html&layout=compact)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sbn521)](https://solved.ac/sbn521/)
