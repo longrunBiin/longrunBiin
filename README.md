@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Chang%20Subin&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=230&section=header&text=Chang%20Subin&fontSize=50)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longrunBiin&hide=javascript,css,scss,html&layout=compact)
